@@ -46,7 +46,7 @@ class XylophoneApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             mainAxisSize: MainAxisSize.max,
             children: [
-              buildKey(1,Colors.red[]),
+              buildKey(1,Colors.red),
               buildKey(2,Colors.orange ),
               buildKey(3,Colors.yellow),
               buildKey(4,Colors.green),
